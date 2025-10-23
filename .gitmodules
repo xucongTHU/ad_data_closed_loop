@@ -1,0 +1,3 @@
+[submodule "infra/data_collection"]
+	path = infra/data_collection
+	url = https://github.com/xucongTHU/ad_shadowmode.git
